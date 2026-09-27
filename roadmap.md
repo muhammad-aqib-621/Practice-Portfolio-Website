@@ -1,0 +1,4 @@
+- [x] Build Portfolio OS with responsive editorial layout, functional command center, projects, lab, about, themes and Digital Trace.
+- [x] Add detailed sample case studies and clear placeholder content.
+- [ ] Configure real contact delivery when destination email and mail provider are available (blocked: details not provided).
+- [x] Verify desktop/mobile interaction and metadata.
